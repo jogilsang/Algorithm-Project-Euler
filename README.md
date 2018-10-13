@@ -11,15 +11,7 @@ kr : <http://euler.synap.co.kr/prob_list.php>
 Image
 =============
 
-![Alt text](/opencv-tutorial-study-master/taskImage/res1.jpg)
-
-![Alt text](/opencv-tutorial-study-master/taskImage/man2.jpg)
-
-![Alt text](/opencv-tutorial-study-master/taskImage/man.png)
-
-![Alt text](/opencv-tutorial-study-master/taskImage/canny.jpg)
-
-![Alt text](/opencv-tutorial-study-master/taskImage/canny2.jpg)
+![Alt text](/Algorithm-Project-Euler/example.png)
 
 <hr/>
 
