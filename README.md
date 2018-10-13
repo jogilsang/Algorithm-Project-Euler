@@ -11,7 +11,7 @@ kr : <http://euler.synap.co.kr/prob_list.php>
 Image
 =============
 
-![Alt text](/Algorithm-Project-Euler/example.png)
+![Alt text](/example.png)
 
 <hr/>
 
